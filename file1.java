@@ -4,5 +4,6 @@ public class file1 {
     System.out.println("java code");
     System.out.println("hiiii welcome to java");
     //hiii
+    add();
   }
 }
