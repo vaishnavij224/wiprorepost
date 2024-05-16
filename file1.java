@@ -1,8 +1,16 @@
-public class file1 {
+import java.lang.*;
 
-  public static void main(String[] args) {
-    System.out.println("java code");
-    System.out.println("hiiii welcome to java");
-    //hiii
-  }
+public class File1
+{
+	int x=1000;
+	int y=200;
+
+	public void add(){
+	     System.out.println(x+y);
+	}
+	public static void main(String[] args){
+	 System.out.println("First Java");
+	 System.out.println("My Second Line of Code"); 		
+	}
 }
+
