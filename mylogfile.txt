@@ -1,1 +1,1 @@
-.*txt.
+doing logging now
