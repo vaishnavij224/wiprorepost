@@ -11,7 +11,9 @@ public class File1
 	}
 	public static void main(String[] args){
 	 System.out.println("First Java");
-	 System.out.println("My Second Line of Code"); 		
+	 System.out.println("My Second Line of Code");
+	 File1 f=new File1();
+	 f.add();
 	}
 }
 
